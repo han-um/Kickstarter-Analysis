@@ -48,6 +48,15 @@
   box-sizing: border-box;
 }
 
+.nav-desc {
+    font-size:13px;
+    color:gray;
+    padding-bottom:20px;
+    padding-top:10px;
+    padding-left:58px;
+    font-weight:100;
+}
+
 html {
   font-family: 'Noto Sans KR', sans-serif;
   line-height: 1.15;
